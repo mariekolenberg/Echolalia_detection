@@ -5,7 +5,7 @@ Repository for my Master's Thesis 'Automatic detection of echolalic speech in ch
 ## Contents
 
 ### 1.A: Transcription models
-Adapted from Whisper Timestamped (with and without prior speaker diarization)
+Adapted from Whisper Timestamped (https://github.com/linto-ai/whisper-timestamped) (with and without prior speaker diarization)
 
 ### 1.B: Transcription-based echolalia and self-repetition detection models
 
